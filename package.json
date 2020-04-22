@@ -1,0 +1,42 @@
+{
+  "name": "prgrms-rct-3",
+  "version": "1.0.0",
+  "description": "React & Redux for Real World Projects\r with Harry, John and Emily",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learn-programmers/prgrms-rct-3.git"
+  },
+  "author": "kim su young",
+  "license": "ISC",
+  "homepage": "https://github.com/learn-programmers/prgrms-rct-3#readme",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@babel/preset-env": "^7.9.0",
+    "@babel/preset-react": "^7.9.4",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.1",
+    "eslint-plugin-html": "^6.0.0",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-react": "^7.19.0",
+    "parcel-bundler": "^1.12.4",
+    "prettier": "^2.0.2"
+  },
+  "dependencies": {
+    "moment": "^2.24.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "styled-jsx": "^3.2.5"
+  }
+}
